@@ -1,5 +1,6 @@
 li {
   color: green; 
+	font-family: Georgia, serif;
   }
 h1 {font-family: Palatino, 'Palatino Linotyp', serif;
   color: black;
@@ -12,6 +13,7 @@ h2 {font-family: Palatino, 'Palatino Linotyp', serif;
 }
 #overview { 
 	color: green;
+	font-family: Georgia, serif;
 	
 	
 }
